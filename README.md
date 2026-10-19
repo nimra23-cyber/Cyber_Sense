@@ -203,7 +203,7 @@ These are future opportunities, not claims that the features are already impleme
 
 ## 14. Project Links
 
-- **Live Application:** (https://id-preview--305e0062-f234-4b80-ad2d-42c41045b31f.lovable.app/)
+- **Live Application:** (https://cyber-sensei-mission-lab.lovable.app))
 - **GitHub Repository:** (https://github.com/nimra23-cyber/Cyber_Sense.git)
-- **Screenshots:** <YOUR_SCREENSHOTS_FOLDER_URL>
+- **Screenshots:** https://drive.google.com/drive/folders/1oElIT89uZ6vUNSz6ZOOL6p-lbUboALNr?usp=sharing
 - **Additional Documentation:** <YOUR_DOCUMENTATION_URL>
