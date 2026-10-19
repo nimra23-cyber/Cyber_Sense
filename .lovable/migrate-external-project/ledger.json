@@ -1,0 +1,4 @@
+[{"capability":"code","source":"archive src/","outcome":"migrate","status":"verified","next_action":"none"},
+{"capability":"records/schema/auth","source":"none (progress in browser storage)","outcome":"not applicable","status":"verified","next_action":"none"},
+{"capability":"secrets","source":"STORAGE_API_KEY appears only as lesson text","outcome":"not applicable","status":"verified","next_action":"none"},
+{"capability":"pages","source":"home page was the blank placeholder","outcome":"preserved as-is","status":"verified","next_action":"user decides whether to build screens"}]
